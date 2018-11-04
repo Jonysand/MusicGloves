@@ -1,0 +1,10 @@
+Em_up
+Am_up
+G_up
+F_up
+C_up
+C_down
+F_down
+G_down
+Am_down
+Em_down

@@ -1,0 +1,10 @@
+mute
+star_do
+star_re
+star_mi
+mute
+mute
+star_fa
+star_so
+star_la
+mute
