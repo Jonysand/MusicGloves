@@ -16,7 +16,15 @@
   There are pressure sensors on the finger tips, transmitting the tapping information to the Arduino board which then passes it through wifi to the MPU. We call it Micro or Music Processing Unit, because all the processing, control and music playing are implemented on this MPU. I can change its mode by an app, record my music on its memory chip or upload it onto the cloud, or just let it play real-time.
 
 ## Code Information
+<p>
   Our code consists of two parts.
+</p>
+<p>
   In the first folder *ArduinoGlove* is the code implemented on the chips of gloves. The main function of this code includes collecting information from the sencors on the finger tips, briefly processing the code, constructing connection between the glove and the server, transmitting the information. With all parameters adjusted, it works well with natrual gestures of playing.
+</p>
+<p>
   In the second folder *RaspberryServer* is the code implemented on the Raspberry Pi - the server. The code includes various funtions including receiving and processing the data from gloves and ensuring the connection among gloves, the server and the smartphone used to change playing mode. The main function code file is *server.py*, with the rest of them used as tests and demos.
+</p>
+<p>
   The whole system requires a local area network with a router set initially.
+</p>
