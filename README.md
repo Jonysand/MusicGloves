@@ -5,7 +5,7 @@
     <img width="60%" src="./snapshot.png" style="max-width:100%;">
     </a>
 </p>
-<p align="center">*Check this vedio out for the information of our music gloves!*</p>
+<p align="center">Check this vedio out for the information of our music gloves!</p>
 
 ## Brief Introduction
   Traditional music instruments like the piano, the guitar, etc. all have their own features and rules that can be barriers when you try to learn them. You need to have a good command of them first before you can play a beautiful stream of music. Then it came to us that why not build a new kind of instruments that can befriend people even at age of 6 and arouse their interests for creating music. And here we have this glove. Just wear them and music will come out with just simply tapping on any surface.
